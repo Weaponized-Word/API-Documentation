@@ -1,8 +1,8 @@
 # Current Versions
 Please read this **entire page** before proceeding into the version-specific documentation.
 
-- [Analytics v1.0](/apis/analytics/1-0.md)
-- [Lexicons v1.0](/apis/lexicons/1-0.md)
+- [Analytics v1.0](/apis/analytics/1-0/overview.md)
+- [Lexicons v1.0](/apis/lexicons/1-0/overview.md)
 
 Decimal increments are backwards-compatible. Integer increments are (generally) not. In other words, an integration built for v2.0 will work reliably with v2.1 (albeit without the extra features of 2.1) by simply changing the version number in the URL from 2.0 to 2.1 to avoid accessing the older deprecated version.
 
