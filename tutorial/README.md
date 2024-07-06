@@ -27,7 +27,7 @@ You'll notice the URL contains both a version number ("1-0") and the endpoint ("
 # Authenticating
 Configure Postman as follows. You'll want to substitute your own API key for the one shown.
 
-![API authentication screenshot](/screenshots/api_authentication_screenshot.jpg)
+![API authentication screenshot](api_authentication_screenshot.jpg)
 
 The returned token is your session token and is good for an hour, which should be more than enough time to query whatever data you need. If your session token does expire, you can simply reauthenticate to obtain a new one.
 
@@ -38,7 +38,7 @@ When writing integration code, it's imperative that you be responsive to errors 
 # The Query
 Now that you have a session token, it's time to query some actual data from the API. Configure Postman as follows. Note that the token below is the session token that was returned to you during authentication.
 
-![API discriminatory screenshot](/screenshots/api_discriminatory_screenshot.jpg)
+![API discriminatory screenshot](api_discriminatory_screenshot.jpg)
 
 The structure of the resultset will be consistent for the life of a given API version, but new API versions will not necessarily reflect the parameters depicted here.
 
