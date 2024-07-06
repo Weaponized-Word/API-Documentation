@@ -77,7 +77,7 @@ The token provided in the authentication phase is used as an input parameter to 
 Again, this simple result set is solely illustrative; there is no need for empty key-value pairs.
 
 # Troubleshooting Common Mistakes
-If you're having trouble connecting after following our quick-start tutorial, please check for the following common errors:
+If you're having trouble connecting after following our [quick-start tutorial](/tutorial/README.md), please check for the following common errors:
 
 - Are you using the proper API and version number in all your URLs, e.g. api.weaponizedword.org / desired api / version-increment / authenticate ? Slightly old versions of the API deprecate but are still usable, while much older versions are retired and can no longer be queried.
 - Are you using the "api." subdomain in your URLs?
