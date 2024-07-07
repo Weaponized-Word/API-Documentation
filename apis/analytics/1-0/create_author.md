@@ -7,7 +7,7 @@ https://api.weaponizedword.org/analytics/1-0/create_author
 ```
 
 # Input Parameters
-<table class='table table-condensed col-lg-10 offset-lg-2 col-md-11 offset-md-1'>
+<table>
   <thead>
   <tr>
     <th>Parameter</th>
