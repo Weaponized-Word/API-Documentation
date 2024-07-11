@@ -11,7 +11,7 @@ This is a non-backwards-compatible release of the API.
 - [/authenticate](authenticate.md)
 
 ## Lexicons
-- [/create_author](get_discriminatory.md)
-- [/update_author](get_derogatory.md)
-- [/delete_author](get_threatening.md)
-- [/get_authors](get_watchwords.md)
+- [/get_discriminatory](get_discriminatory.md)
+- [/get_derogatory](get_derogatory.md)
+- [/get_threatening](get_threatening.md)
+- [/get_watchwords](get_watchwords.md)
